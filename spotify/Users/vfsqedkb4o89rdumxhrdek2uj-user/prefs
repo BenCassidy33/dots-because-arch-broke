@@ -1,0 +1,3 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.1.153\",\"app_state\":\"MISSING\",\"created_timestamp\":1722202758,\"device_id\":\"dfea103a-8e49-4657-9487-2bc1d5289b0d\",\"dial_location_url\":\"http://192.168.1.153:7678/nservice/\",\"display_name\":\"Samsung Q60BA 55 TV\",\"last_seen\":1722202758,\"manufacturer\":\"Samsung\",\"model_name\":\"QN55Q60BAFXZA\",\"product_cap\":\"Resolution:1920X1080,Tizen,Y2021\",\"public_ip\":\"\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"5444a34eb728\",\"port\":9,\"retries\":400}}]"
+app.player.volume=19656
